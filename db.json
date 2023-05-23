@@ -1,0 +1,26 @@
+{
+    "events": [
+        {
+            "category": "concert jazz",
+            "description": "Concertul MOVIE MUSIC JAZZ PROJECT pe care îl va susține Dino Massa pe scena Casei de Cultură Rădăuți, ne prezintă unele dintre cele mai frumoase melodii scrise pentru filme renumite, cum ar fi: Harry Potter, Legenda anului 1900, Stăpânul inelelor, Nuovo Cinema Paradiso, Once Upon a Time in America, Limelight, Forrest Gump și Micul dejun la Tiffany, a căror muzică extraordinară a făcut obiectul unei mari lucrări de rescriere și aranjare a creației pianistului.\nCompozitor activ și profesor de pian de jazz la Conservatorul din Napoli, Dino Massa a cântat atât în Italia, la Orsara Jazz, Antiphonae Jazz, Jazzità Rome, Jazz e non solo Jazz, Muntagn in Jazz, Talos Jazz, în Statele Unite la American Jazz Museum Kansas City, cât și în întreaga Europă: în Spania la Jimmy Glass Jazz Festival Valencia, în Polonia la Summer Jazz Festival Cracovia, în Cehia la Prague Jazz Festival, în Portugalia la Cascais jazz club în direct la Radio Antena2, iar apoi în nume"headline": "Concert MOVIE MUSIC JAZZ PROJECT, Dino Massa","location": "Casa de Cultură",
+            "host": "Casa de Cultură Rădăuți",
+            "street": "Strada Bogdan Vodă, nr.15",
+            "start": 1685203200,
+            "end": 1685208600,
+            "URL": "gs://eradauti-nativ.appspot.com/events/scaled_IMG_6697.jpg",
+            "id": 32271
+        },
+        {
+            "category": "Stand Up Comedy Show",
+            "description": "Teo, Vio și Costel, trei comedianți aflați undeva la mijloc de carieră, faimă, bani și viață, vin în turneu cu un show fresh de stand up comedy în orașul tău!\nÎi cunoaștem de ceva vreme ca făcând parte din scena de stand up comedy din România, chiar de la începuturile ei sau de la podcastul \"Între show-uri\" , apariții TV în juriul Stand Up Revolution sau alte emisiuni de pe YouTube. De undeva tot îi cunoști, iar dacă nu, înseamnă că ei chiar sunt undeva pe drumul către faimă și merită să ajungi la ei la show.\n🎫 Biletele se pot cumpăra de la caseria Casei de Cultură Rădăuți sau de pe platforma iabilet.ro",
+            "headline": "Undeva la mijloc",
+            "location": "Casa de Cultură",
+            "host": "Casa de Cultură Rădăuți",
+            "street": "Strada Bogdan Vodă nr.15",
+            "start": 1694714400,
+            "end": 1694725200,
+            "URL": "gs://eradauti-nativ.appspot.com/events/scaled_F.png",
+            "id": 945925
+        }
+    ]
+}
